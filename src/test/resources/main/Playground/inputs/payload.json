@@ -1,0 +1,22 @@
+{
+    "id": 123,
+    "name": "Order1",
+    "details": {
+        "items": [
+            {
+                "itemId": 1,
+                "itemName": "Pen",
+                "price": 10
+            },
+            {
+                "itemId": 2,
+                "itemName": "Notebook",
+                "price": 50
+            }
+        ],
+        "delivery": {
+            "address": "123 Street",
+            "status": "Dispatched"
+        }
+    }
+}
